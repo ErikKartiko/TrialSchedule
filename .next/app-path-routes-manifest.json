@@ -1,0 +1,21 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/api/admin/users/route": "/api/admin/users",
+  "/api/ai-suggest/route": "/api/ai-suggest",
+  "/api/auth/login/route": "/api/auth/login",
+  "/api/auth/logout/route": "/api/auth/logout",
+  "/api/auth/me/route": "/api/auth/me",
+  "/api/auth/register/route": "/api/auth/register",
+  "/api/chat/route": "/api/chat",
+  "/api/class-schedules/[id]/add-to-calendar/route": "/api/class-schedules/[id]/add-to-calendar",
+  "/api/class-schedules/[id]/route": "/api/class-schedules/[id]",
+  "/api/class-schedules/import/route": "/api/class-schedules/import",
+  "/api/class-schedules/route": "/api/class-schedules",
+  "/api/class-schedules/template/download/route": "/api/class-schedules/template/download",
+  "/api/events/[id]/route": "/api/events/[id]",
+  "/api/events/route": "/api/events",
+  "/api/health/route": "/api/health",
+  "/api/report/route": "/api/report",
+  "/page": "/"
+}

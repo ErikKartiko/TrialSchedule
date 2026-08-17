@@ -1,0 +1,10 @@
+var R=require("../../../../chunks/[turbopack]_runtime.js")("server/app/api/class-schedules/[id]/route.js")
+R.c("server/chunks/[root-of-the-server]__04l9sri._.js")
+R.c("server/chunks/_0tm29il._.js")
+R.c("server/chunks/_0q4uqn2._.js")
+R.c("server/chunks/[root-of-the-server]__11j~5mn._.js")
+R.c("server/chunks/_0zo-j0_._.js")
+R.c("server/chunks/node_modules_next_04~_e52._.js")
+R.c("server/chunks/_next-internal_server_app_api_class-schedules_[id]_route_actions_126t~qr.js")
+R.m(2864)
+module.exports=R.m(2864).exports
